@@ -1,0 +1,14 @@
+name: odsc_east_2025
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - numpy
+  - py-xgboost
+  - shap
+  - jupyter
+prefix: /opt/conda
+
